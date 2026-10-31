@@ -111,6 +111,14 @@
 *.pem
 *.key
 
+# ULTRON runtime data
+data/logs/
+data/models/
+data/screenshots/
+data/audit/
+data/*.db
+data/*.db-journal
+
 # Temporary files
 *.tmp
 *.temp
